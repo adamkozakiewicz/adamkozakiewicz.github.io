@@ -9,10 +9,6 @@ Hi, I am an aspiring data analyst building a portfolio using technologies such a
 Scooter sharing program in Chicago. I needed to answer the question: How do annual members and casual riders use scooters differently?
 
 ![Scooter sharing - data exploration in SQL](/photos/scooter_sharing.png)
-[![homepage][1]][2]
-
-[1]:  /photos/scooter_sharing.png
-[2]:  https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql "Redirect to homepage"
  
 ---
 
