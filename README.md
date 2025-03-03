@@ -6,14 +6,14 @@ Hi, I am an aspiring data analyst building a portfolio using technologies such a
 ## [Data exploration and analysis in SQL](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
 Scooter sharing program in Chicago. I needed to answer the question: How do annual members and casual riders use scooters differently?
 
-[![Scooter sharing - data exploration in SQL](/photos/scooter_sharing.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
+[![Scooter sharing - data exploration in SQL](/photos/scooter_sharing2.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
  
 ---
 
 ## Tableau dashboard link
 Data visualisation for scooter sharing project
 
- ![Scooter sharing - Tableau dashboard](/photos/scooter_sharing.png)
+ ![Scooter sharing - Tableau dashboard](/photos/scooter_sharing2.png)
  
 ---
 
