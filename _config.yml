@@ -4,3 +4,11 @@ show_downloads: false
 google_analytics:
 theme: minima
 skin: solarized-light
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
