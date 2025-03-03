@@ -1,6 +1,6 @@
 ---
 
-> Hi, I am an aspiring data analyst building a portfolio using technologies such as SQL, Python, MS Excel, Tableau, MS Power BI. I am looking for a team where I can use my commitment and analytical skills, while learning something new every day. I value teamwork, as well as independently completing tasks assigned to me.
+Hi, I am an aspiring data analyst building a portfolio using technologies such as SQL, Python, MS Excel, Tableau, MS Power BI. I am looking for a team where I can use my commitment and analytical skills, while learning something new every day. I value teamwork, as well as independently completing tasks assigned to me.
 
 
 ---
