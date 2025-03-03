@@ -23,7 +23,7 @@ Data visualisation for scooter sharing project
 ## [Microsoft Excel dashboard](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
 My 2023 as a taxi driver with Bolt. Dashboard prepared using pivot tables and Power Query.
 
- [![2023 at Bolt - Microsoft Excel dashboard](/photos/bolt_dashboard.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
+ ![2023 at Bolt - Microsoft Excel dashboard](/photos/bolt_dashboard.png)
  
 ---
 
