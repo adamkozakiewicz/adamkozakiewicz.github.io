@@ -1,4 +1,5 @@
-Hi, I am an aspiring data analyst building a portfolio using technologies such as SQL, Python, MS Excel, Tableau, MS Power BI. I am looking for a team where I can use my commitment and analytical skills, while learning something new every day. I value teamwork, as well as independently completing tasks assigned to me.
+<div style="text-align: right">Hi, I am an aspiring data analyst building a portfolio using technologies such as SQL, Python, MS Excel, Tableau, MS Power BI. I am looking for a team where I can use my commitment and analytical skills, while learning something new every day. I value teamwork, as well as independently completing tasks assigned to me.</div>
+
 
 ---
 
@@ -6,7 +7,7 @@ Hi, I am an aspiring data analyst building a portfolio using technologies such a
 ## [Data exploration and analysis in SQL](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
 Scooter sharing program in Chicago. I needed to answer the question: How do annual members and casual riders use scooters differently?
 
-[![Scooter sharing - data exploration in SQL](/photos/scooter_sharing2.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
+[![Scooter sharing - data exploration in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
  
 ---
 
