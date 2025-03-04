@@ -4,10 +4,10 @@
 ---
 
 
-## [Scooter sharing - data exploration and analysis in SQL (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
+## [Scooter sharing - data exploration and analysis in SQL (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
 Scooter sharing program in Chicago. I needed to answer the question: How do annual members and casual riders use scooters differently?
 
-[![Scooter sharing - data exploration and analysis in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter%20sharing.sql)
+[![Scooter sharing - data exploration and analysis in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
  
 ---
 
