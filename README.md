@@ -7,7 +7,7 @@
 ## [Scooter sharing - data exploration and analysis in SQL (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
 <div style="text-align: justify">Scooter-share program in Chicago offers flexible pricing. Casual riders (single-ride and full-day users) are less profitable than annual members. To drive growth, company aims 
 to convert casual riders into members. I needed to answer the question: How do annual members and casual riders use scooters differently? I analyzed historical trip data to uncover trends and inform their strategy.
-  
+   
 Skills used: Joins, CTE's, Subqueries, Window Functions, Aggregate Functions, Creating Tables</div>
 
 
@@ -51,6 +51,6 @@ Residential real estate market in the Praga-Północ district in 2013-2018. This
 Looking forward to hearing from you!
 
  - tel. 781 739 947 
- - adamkozakiewicz44@gmail.com
+ - <adamkozakiewicz44@gmail.com>
  - [linkedin.com/in/adam-kozakiewicz](linkedin.com/in/adam-kozakiewicz)
  - [https://github.com/adamkozakiewicz](https://github.com/adamkozakiewicz)
