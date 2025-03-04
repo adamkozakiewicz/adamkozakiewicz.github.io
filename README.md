@@ -1,5 +1,5 @@
 <br>
-<div style="text-align: justify">Hi, I am an aspiring data analyst building a portfolio using technologies such as SQL, Python, MS Excel, Tableau, MS Power BI. I am looking for a team where I can use my commitment and analytical skills, while learning something new every day. I value teamwork, as well as independently completing tasks assigned to me.</div>
+<div style="text-align: justify">Hi, I am an aspiring data analyst building a portfolio using technologies such as SQL, Python, MS Excel, Tableau, MS Power BI. I am looking for a team where I can use my commitment and analytical skills, while learning something new every day. I value teamwork, as well as independently completing tasks assigned to me.</div> 🫡
 <br>
 
 ---
@@ -48,7 +48,7 @@ Residential real estate market in the Praga-Północ district in 2013-2018. This
 ---
 <br>
   
-Looking forward to hearing from you!
+Looking forward to hearing from you! 👀
 
  - tel. 781 739 947 
  - <adamkozakiewicz44@gmail.com>
