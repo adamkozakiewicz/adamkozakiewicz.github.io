@@ -51,5 +51,5 @@ Looking forward to hearing from you!
 
  - tel. 781 739 947 
  - <adamkozakiewicz44@gmail.com>
- - [linkedin.com/in/adam-kozakiewicz](linkedin.com/in/adam-kozakiewicz)
- - [https://github.com/adamkozakiewicz](https://github.com/adamkozakiewicz)
+ - [linkedin.com/in/adam-kozakiewicz](https://linkedin.com/in/adam-kozakiewicz)
+ - [github.com/adamkozakiewicz](https://github.com/adamkozakiewicz)
