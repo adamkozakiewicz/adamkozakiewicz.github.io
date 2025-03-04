@@ -4,10 +4,10 @@
 ---
 
 
-## [Data exploration and analysis in SQL](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
+## [Data exploration and analysis in SQL (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
 Scooter sharing program in Chicago. I needed to answer the question: How do annual members and casual riders use scooters differently?
 
-[![Scooter sharing - data exploration in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter-sharing.sql)
+[![Scooter sharing - data exploration in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/scooter%20sharing.sql)
  
 ---
 
@@ -20,30 +20,30 @@ Data visualisation for scooter sharing project
 ---
 
 
-## [Microsoft Excel dashboard](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
-My 2023 as a taxi driver with Bolt. Dashboard prepared using pivot tables and Power Query.
+## [Microsoft Excel dashboard  (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
+My 2023 as a taxi driver with Bolt. Dashboard prepared using Power Query, Pivot Tables and Pivot Charts.
 
- ![2023 at Bolt - Microsoft Excel dashboard](/photos/bolt_dashboard.png)
+ [![2023 at Bolt - Microsoft Excel dashboard](/photos/bolt_dashboard.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
  
 ---
 
 
-## [Text analysis in Python](https://github.com/adamkozakiewicz/portfolio/blob/main/Input%20text%20analysis.ipynb)
+## [Text analysis in Python (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/Input%20text%20analysis.ipynb)
 The script counts the letters and words in the entered text, and then compares the occurrence of letters in the entered text with the letter distribution in the Polish version of Scrabble.
 
- ![Text analysis in Python](/photos/text_analysis.png)
+ [![Text analysis in Python](/photos/text_analysis.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/Input%20text%20analysis.ipynb)
  
 ---
 
 
-## [Data cleaning and analysis in MS Excel](https://github.com/adamkozakiewicz/portfolio/blob/main/Residential%20real%20estate%20market%20in%20the%20Praga-P%C3%B3%C5%82noc%20district%20in%202013-2018.pdf)
+## [Data cleaning and analysis in MS Excel (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/Residential%20real%20estate%20market%20in%20the%20Praga-P%C3%B3%C5%82noc%20district%20in%202013-2018.pdf)
 Residential real estate market in the Praga-Północ district in 2013-2018. This is the analytical part of my Bachelor's Thesis.
 
- ![Residential real estate market](/photos/eastate_market.png)
+ [![Residential real estate market](/photos/eastate_market.png)](https://github.com/adamkozakiewicz/portfolio/blob/main/Residential%20real%20estate%20market%20in%20the%20Praga-P%C3%B3%C5%82noc%20district%20in%202013-2018.pdf)
  
 ---
 
-
+  
 Looking forward to hearing from you!
 
  - tel. 781 739 947 
