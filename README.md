@@ -28,10 +28,10 @@ My 2023 as a taxi driver with Bolt. Dashboard prepared using pivot tables and Po
 ---
 
 
-## [Text analysis in Python](https://github.com/adamkozakiewicz/portfolio/blob/main/Text%20analysis.ipynb)
+## [Text analysis in Python](https://github.com/adamkozakiewicz/portfolio/blob/main/Input%20text%20analysis.ipynb)
 Here is a Python script that counts individual letters and words in the input text and compares the results with the letter distribution in the game Scrabble.
 
- ![Text analysis in Python](/photos/python_scrabble.png)
+ ![Text analysis in Python](/photos/text_analysis.png)
  
 ---
 
