@@ -8,7 +8,7 @@
 <div style="text-align: justify">Scooter-share program in Chicago offers flexible pricing. Casual riders (single-ride and full-day users) are less profitable than annual members. To drive growth, company aims 
 to convert casual riders into members. I needed to answer the question: How do annual members and casual riders use scooters differently? I analyzed historical trip data to uncover trends and inform their strategy.
    
-Skills used: Joins, CTE's, Subqueries, Window Functions, Aggregate Functions, Creating Tables</div>
+Skills used: Joins, CTE's, Subqueries, Window Functions, Aggregate Functions, Creating Tables and Columns.</div>
 
 
 [![Scooter sharing - data exploration and analysis in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
@@ -17,7 +17,7 @@ Skills used: Joins, CTE's, Subqueries, Window Functions, Aggregate Functions, Cr
 
 
 ## Tableau dashboard link
-Data visualisation for scooter sharing project
+Data visualisation for scooter sharing project.
 
  ![Scooter sharing - Tableau dashboard](/photos/scooter_sharing2.png)
  
