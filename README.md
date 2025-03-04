@@ -5,12 +5,11 @@
 
 
 ## [Scooter sharing - data exploration and analysis in SQL (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
-<div style="text-align: justify">Scooter-share program in Chicago offers flexible pricing: single-ride passes, full-day passes, and annual memberships. 
-Casual riders (single-ride and full-day users) are less profitable than annual members. To drive growth, company aims 
-to convert casual riders into members. Marketing efforts will focus on understanding the differences between these groups, 
-identifying reasons for membership purchases, and leveraging digital media. I analyzed historical trip data to 
-uncover trends and inform their strategy.  
-I needed to answer the question: How do annual members and casual riders use scooters differently?</div>
+<div style="text-align: justify">Scooter-share program in Chicago offers flexible pricing. Casual riders (single-ride and full-day users) are less profitable than annual members. To drive growth, company aims 
+to convert casual riders into members. I needed to answer the question: How do annual members and casual riders use scooters differently? I analyzed historical trip data to uncover trends and inform their strategy.
+  
+Skills used: Joins, CTE's, Subqueries, Window Functions, Aggregate Functions, Creating Tables</div>
+
 
 [![Scooter sharing - data exploration and analysis in SQL](/photos/scooter_sharing2.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
  
