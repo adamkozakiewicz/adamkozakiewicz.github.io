@@ -46,9 +46,9 @@ Residential real estate market in the Praga-Północ district in 2013-2018. This
 ---
 <br>
   
-<div style="text-align: center">Looking forward to hearing from you!
+Looking forward to hearing from you!
 
  - tel. 781 739 947 
  - <adamkozakiewicz44@gmail.com>
  - [linkedin.com/in/adam-kozakiewicz](linkedin.com/in/adam-kozakiewicz)
- - [https://github.com/adamkozakiewicz](https://github.com/adamkozakiewicz)</div>
+ - [https://github.com/adamkozakiewicz](https://github.com/adamkozakiewicz)
