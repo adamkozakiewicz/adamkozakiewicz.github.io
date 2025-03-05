@@ -16,7 +16,7 @@ to convert casual riders into members.</div>
 ---
 <br>
 
-## Tableau dashboard link
+## [Scooter sharing - data visualisation in Tableau (work in progress)](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
 Data visualisation for scooter sharing project.
 
  ![Scooter sharing - Tableau dashboard](/photos/scooter_sharing2.png)
@@ -24,7 +24,7 @@ Data visualisation for scooter sharing project.
 ---
 <br>
 
-## [2023 at Bolt - Microsoft Excel dashboard  (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
+## [2023 at Bolt - Microsoft Excel dashboard (view project)](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
 My 2023 as a taxi driver with Bolt. Dashboard prepared using Power Query, Pivot Tables and Pivot Charts.
 
  [![2023 at Bolt - Microsoft Excel dashboard](/photos/bolt_dashboard.png "View project")](https://github.com/adamkozakiewicz/portfolio/blob/main/My%202023%20at%20Bolt%20-%20Dashboard.xlsx)
