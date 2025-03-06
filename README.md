@@ -18,8 +18,6 @@ to convert casual riders into members.</div>
 
 ## [Scooter sharing - data visualisation in Tableau (work in progress)](https://github.com/adamkozakiewicz/portfolio/blob/main/Scooter%20sharing.sql)
 Data visualisation for scooter sharing project.
-
- ![Scooter sharing - Tableau dashboard](/photos/scooter_sharing2.png)
  
 ---
 <br>
